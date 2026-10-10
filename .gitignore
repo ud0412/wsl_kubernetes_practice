@@ -1,0 +1,8 @@
+.github_key
+Plan.md
+.cache/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+config/lab.env
